@@ -1,4 +1,4 @@
-import Card from "./components/Card";
+import Card from "./components/card";
 import CardBody from "./components/card-body";
 import CardHeader from "./components/card-header";
 
